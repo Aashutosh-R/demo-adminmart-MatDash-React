@@ -18,7 +18,7 @@
 
 
 
-## Introduction
+## 👋 Introduction
 
 **MatDash** is a sleek and responsive **React admin dashboard template** built with **Tailwind CSS**, **TypeScript**, **Flowbite UI**, and **ApexCharts**. It offers a clean and modern foundation for building fast, scalable, and visually appealing web applications.
 
